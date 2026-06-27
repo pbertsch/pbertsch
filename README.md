@@ -19,7 +19,7 @@ Flutter / Dart · Go · Node.js / TypeScript · Python · Docker & Podman · MCP
 
 - Studio — [alphawave.systems](https://alphawave.systems)
 - LinkedIn — [in/patrick-bertsch](https://www.linkedin.com/in/patrick-bertsch/)
-- X — [@pbertsch](https://x.com/pbertsch)
+- X — [@pbertscch](https://x.com/pbertscch)
 
 ---
 
